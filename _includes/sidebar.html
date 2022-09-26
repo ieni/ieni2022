@@ -1,0 +1,94 @@
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+ {% comment %}
+    <a class="sidebar-nav-item{% if page.title == 'Programma' %} active{% endif %}" href="{{ '/programma' | absolute_url }}">Programma</a>
+    <a class="sidebar-nav-item" href="https://www.smink-registratie.nl/ieni/" target="_blank">Aanmelden</a>
+{% endcomment %}
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+    
+    {% comment %}
+    <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
+    {% endcomment %}
+ {% comment %}   
+    <span class="sidebar-nav-item">Sessies:</span>
+    {% assign algemeen_list = site.algemeen %}
+    {% for node in algemeen_list %}
+      {% if node.title != null %}
+        {% if node.layout == "algemeen" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in algemeen_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+{% endcomment %}    
+{% comment %}    
+    <span class="sidebar-nav-item">Informatica:</span>
+    {% assign informatica_list = site.informatica %}
+    {% for node in informatica_list %}
+      {% if node.title != null %}
+        {% if node.layout == "informatica" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in informatica_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    
+    <span class="sidebar-nav-item">Digitale geletterdheid:</span>
+    {% assign dg_list = site.dg %}
+    {% for node in dg_list %}
+      {% if node.title != null %}
+        {% if node.layout == "dg" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">&bull; {{ node.title }}</a>
+          {% for subnode in dg_list %}
+            {% if subnode.layout == "subthema" and subnode.thema == node.thema and subnode.thema == page.thema %}
+               <a class="sidebar-nav-item{% if page.url == subnode.url %} active{% endif %}" href="{{ site.baseurl }}{{ subnode.url }}"> &nbsp; &nbsp; - {{ subnode.title }}</a>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}         
+{% endcomment %}
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+{%comment%}
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+{% endcomment %}   
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+ 
+    <span class="sidebar-nav-item">Versie {{ site.version }}</span>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }} i&i. Licentie: CC-BY-SA
+    </p>
+  </div>
+</div>
