@@ -18,8 +18,8 @@ Alvast wat praktische gegevens:
 
 * datum: 10 november 2022
 * ontvangst: vanaf 9:00 uur 
-* begin programma: 10:00 uur 
-* afsluiting: 17:00 uur
+* begin programma: 9:45 uur 
+* afsluiting: 17:30 uur
 * lokatie:
     * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw)
     * Universiteit Utrecht
