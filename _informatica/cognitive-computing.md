@@ -20,4 +20,6 @@ unplugged-activities.
 * Jasper Dukers is vakdidacticus Informatica op de UvA en informaticadocent
 op Scholen aan Zee (Den Helder).
 
-(plaatjes komen nog)
+![Cognitive computing image-1-2](../assets/cognitive-computing-1-2.png)
+
+![Cognitive computing image-3](../assets/cognitive-computing-3.png)

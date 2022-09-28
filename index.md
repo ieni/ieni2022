@@ -12,7 +12,8 @@ Welkom bij de website van de i&i conferentie 2022.
 Na de Corona-perikelen van de vorige jaren hopen we elkaar 
 in november weer in levende lijve te ontmoeten.
 
-Het programma volgt hier binnenkort. Maar je kunt je nu al (bijna...) aanmelden!
+Het programma volgt hier binnenkort. 
+Maar je kunt je nu al aanmelden via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}!
 
 Alvast wat praktische gegevens:
 
@@ -23,4 +24,4 @@ Alvast wat praktische gegevens:
 * lokatie:
     * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw)
     * Universiteit Utrecht
-* aanmeldformulier: (volgt zeer binnenkort)
+* aanmelden via: [aanmeldformulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}
