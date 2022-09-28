@@ -17,6 +17,10 @@ Het programma volgt hier binnenkort. Maar je kunt je nu al aanmelden!
 Alvast wat praktische gegevens:
 
 * datum: 10 november 2022
-* tijd: ontvangst vanaf 9:00 uur, begin programma 10:00 uur; afsluiting 17:00 uur
-* lokatie: Universiteit Utrecht, 
-* aanmeldformulier:
+* ontvangst: vanaf 9:00 uur 
+* begin programma: 10:00 uur 
+* afsluiting: 17:00 uur
+* lokatie:
+    * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw)
+    * Universiteit Utrecht
+* aanmeldformulier: (volgt zeer binnenkort)
