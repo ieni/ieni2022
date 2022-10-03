@@ -3,7 +3,7 @@ layout: dg
 title: Coderen in de klas
 ---
 
-**Coderen in de klas: Good Practices**
+*Coderen in de klas: Good Practices*
 
 **Birol Senkal & Chris van den Berg**
 
