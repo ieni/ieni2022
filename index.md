@@ -26,7 +26,9 @@ Alvast wat praktische gegevens:
     * Universiteit Utrecht
 * aanmelden via: [aanmeldformulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}
 
-## Programma
+## Programma (concept)
+
+*wijzigingen voorbehouden*
 
 [<img src="{{'/assets/ieni-conferentie-2022-concept-221003.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221003.png' | relative_url}}){:target="_blank"}
 
