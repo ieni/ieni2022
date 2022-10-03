@@ -25,3 +25,9 @@ Alvast wat praktische gegevens:
     * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw)
     * Universiteit Utrecht
 * aanmelden via: [aanmeldformulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}
+
+## Programma
+
+[<img src="{{'/assets/ieni-conferentie-2022-concept-221003.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221003.png' | relative_url}}){:target="_blank"}
+
+

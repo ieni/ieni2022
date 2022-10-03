@@ -1,5 +1,5 @@
 ---
-layout: informatica 
+layout: dg 
 title: Python leren met muziek 
 ---
 
