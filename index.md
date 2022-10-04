@@ -8,23 +8,16 @@ title: Home
 
 ## i&i conferentie - 10 november 2022
 
-Welkom bij de website van de i&i conferentie 2022. 
+Welkom bij de website van de i&i conferentie 2022: *Digitale geletterdheid: nu verder!*
 Na de Corona-perikelen van de vorige jaren hopen we elkaar 
 in november weer in levende lijve te ontmoeten.
+Praktische gegevens:
 
-Het programma volgt hier binnenkort. 
-Maar je kunt je nu al aanmelden via het [formulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}!
-
-Alvast wat praktische gegevens:
-
-* datum: 10 november 2022
-* ontvangst: vanaf 9:00 uur 
-* begin programma: 9:45 uur 
-* afsluiting: 17:30 uur
+* aanmelden via: [>>aanmeldformulier<<](https://www.smink-registratie.nl/ieni/){:target="_blank"}
+* datum: 10 november 2022, 9:00 - 17:30 uur
 * lokatie:
-    * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw)
-    * Universiteit Utrecht
-* aanmelden via: [aanmeldformulier](https://www.smink-registratie.nl/ieni/){:target="_blank"}
+    * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
+Universiteit Utrecht
 
 ## Programma (concept)
 
