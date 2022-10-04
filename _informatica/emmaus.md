@@ -25,5 +25,5 @@ liever dan dat we het zelf maken) mogelijk beter maken.
 
 De link naar onze site voor docenten is
 
-[https://informatica.emmauscollege.nl/docenten/](https://informatica.emmauscollege.nl/docenten/)
+[https://informatica.emmauscollege.nl/docenten/](https://informatica.emmauscollege.nl/docenten/){:target="_blank"}
 
