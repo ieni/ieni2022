@@ -33,12 +33,16 @@ Na een korte theoretische sessie kun je zelf aan de slag met al het materiaal
 Ook als je nog nooit wat met de micro:bit hebt gedaan (dat is voor de basisschool),
 Pauline zal je verbazen wat de mogelijkheden zijn. 
 Ze geeft veel workshop/lezingen over de micro:bit in aan leerlingen van basisscholen tot en met studenten aan universiteiten. 
-Zie ook: [https://www.4pip.nl](https://www.4pip.nl){:target="_blank"}.
+Zie ook: [https://www.4pip.nl](https://www.4pip.nl){:target="_blank"} 
+en [https://microbit101.nl](https://microbit101.nl){:target="_blank"}.
 
 Hopelijk kan ze jullie een sneak preview laten zien van haar Engelse boek wat ze 
 samen met Peter Heldens (Microsoft) heeft geschreven: 
 “Invent to Learn with the micro:bit” onder de redactie van Sylvia Martinez en Gary Stager. 
 In dit boek staan meer dan 25 micro:bit projecten van beginner tot expert. 
 
-Ben je nieuwsgierig geworden? Kom dan naar deze workshop.
+*Ben je nieuwsgierig geworden? Kom dan naar deze workshop.*
 
+Pauline Maas en Peter Heldens met een micro:bit (niet op schaal):
+
+<img src="{{'/public/images/pauline-maas-microbit.jpg' | relative_url}}" width="600">

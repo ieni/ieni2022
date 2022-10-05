@@ -1,7 +1,9 @@
 ---
 layout: informatica
-title: Naar inspirerend informatica-onderwijs
+title: Informatica op het Emmauscollege
 ---
+
+*Naar inspirerend informatica-onderwijs*
 
 **Sander van Geest en Arie Pieter Cammeraat, Emmauscollege Rotterdam**
 
@@ -23,7 +25,6 @@ lessen). Tegelijkertijd zijn we op zoek naar reacties van collega's,
 die ons lesprogramma (het is geen lesmethode, want we hergebruiken
 liever dan dat we het zelf maken) mogelijk beter maken.
 
-De link naar onze site voor docenten is
-
+De link naar onze site voor docenten is 
 [https://informatica.emmauscollege.nl/docenten/](https://informatica.emmauscollege.nl/docenten/){:target="_blank"}
 
