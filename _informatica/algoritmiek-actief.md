@@ -25,3 +25,9 @@ Ook hier geldt dat je het op allerlei niveaus kan doen: van het lezen of
 aanvullen van een algoritme tot het complete ontwerp. Daarnaast gaan we aan de
 slag met het aanpassen van bestaande toetsvragen zodat je deze kan inzetten
 voor een herkansing of om te variëren tussen Havo/Vwo.
+
+<img src="{{'/public/images/alg3a11_sortsize_bubble.png' | relative_url}}" width="500">
+
+De onderstaande tabel laat zien welke soorten algoritmes aan de orde komen:
+
+<img src="{{'/public/images/alg5a26_effklassen.png' | relative_url}}" width="600">
