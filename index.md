@@ -23,6 +23,6 @@ Universiteit Utrecht
 
 *wijzigingen voorbehouden*
 
-[<img src="{{'/assets/ieni-conferentie-2022-concept-221007.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221007.png' | relative_url}}){:target="_blank"}
+[<img src="{{'/assets/ieni-conferentie-2022-concept-221013.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221013.png' | relative_url}}){:target="_blank"}
 
 
