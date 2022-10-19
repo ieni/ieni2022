@@ -1,6 +1,6 @@
 ---
 layout: informatica
-title: Algoritmiek Actief
+title: Algoritmiek door puzzelen
 ---
 
 **Paul Bergervoet en Renske Weeda (informatica-actief)**
@@ -31,3 +31,9 @@ voor een herkansing of om te variëren tussen Havo/Vwo.
 De onderstaande tabel laat zien welke soorten algoritmes aan de orde komen:
 
 <img src="{{'/public/images/alg5a26_effklassen.png' | relative_url}}" width="600">
+
+Een voorbeeld bij Dijkstra's algoritme voor het kortste pad:
+
+<img src="{{'/public/images/alg7a22_dijkstra_uitleg5.png' | relative_url}}" width="600">
+
+<img src="{{'/public/images/alg4a22_modderdorp-prim.png' | relative_url}}" width="600">
