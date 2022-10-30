@@ -14,7 +14,7 @@ Informatica biedt veel vrijheid in het invullen van je informaticaprogramma.
 De combinatie Q Highschool met het examenprogramma biedt mooie kansen!
  
 Op dit moment hebben we zo'n 180+ leerlingen van 6 verschillende VO-scholen
-van stichting Quadraam in de regio Arnhem, die het examenvak Informatica
+van stichting Quadraam in de regio Arnhem die het examenvak Informatica
 volgen. Al deze leerlingen krijgen de mogelijkheid om ieder een individueel
 traject te kiezen.
  
