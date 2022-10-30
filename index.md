@@ -19,10 +19,10 @@ Praktische gegevens:
     * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
 Universiteit Utrecht
 
-## Programma (concept)
+## Programma
 
 *wijzigingen voorbehouden*
 
-[<img src="{{'/assets/ieni-conferentie-2022-concept-221013.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221013.png' | relative_url}}){:target="_blank"}
+[<img src="{{'/assets/ieni-conferentie-2022-concept-221030.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221030.png' | relative_url}}){:target="_blank"}
 
 
