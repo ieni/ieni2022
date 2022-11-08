@@ -1,7 +1,7 @@
 ---
 title: Individuele en maatschappelijke invloed van informatica
 spreker: Ingrid Breymann en Gert de Geest
-layout: algemeen
+layout: informatica
 ---
 
 *Big data is watching you* en *Fit met de fitbit* zijn twee modules 
