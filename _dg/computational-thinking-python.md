@@ -5,7 +5,7 @@ title: Computational Thinking & Python
 
 *Educatieve brug tussen wiskunde & informatica*
 
-**Koen Stulens en  Bert Wikkerink – T3 Nederland**
+**Ludovic Wallaart en  Bert Wikkerink – T3 Nederland**
 
 Daag leerlingen uit om creatief problemen aan te pakken en een machine
 logische algoritmes te laten uitvoeren; om zo concepten te onderzoeken en te

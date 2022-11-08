@@ -23,7 +23,7 @@ Universiteit Utrecht
 
 *wijzigingen voorbehouden*
 
-[<img src="{{'/assets/ieni-conferentie-2022-concept-221030.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-concept-221030.png' | relative_url}}){:target="_blank"}
+[<img src="{{'/assets/ieni-conferentie-2022-programma-221107.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-programma-221107.png' | relative_url}}){:target="_blank"}
 
 ## Onze sponsors
 
@@ -31,9 +31,35 @@ Universiteit Utrecht
 
 Zie [www.netacad.com](https://www.netacad.com){:target="_blank"}
 
+[<img src="{{'/assets/logo-informatica-actief-klein.png' | relative_url}}" width="400">]({{'/assets/logo-informatica-actief-klein.png' | relative_url}}){:target="_blank"}
+
+
+De Stichting Informatica-Actief heeft drie doelen:
+
+* Online leermateriaal te publiceren voor het vak informatica in het voortgezet onderwijs.
+* Kennis te verzamelen over het vak informatica voor het voortgezet onderwijs om leermateriaal te (laten) ontwikkelen.
+* Docenten te ondersteunen door middel van cursussen voor het vak informatica voor het voortgezet onderwijs.
+
+Zie: [https://informatica-actief.nl/bestanden/Flyer2022v22.pdf](https://www.informatica-actief.nl/bestanden/Flyer2022v22.pdf){:target="_blank"}
+
+
 [<img src="{{'/assets/instruct-logo.png' | relative_url}}" width="400">]({{'/assets/instruct-logo.png' | relative_url}}){:target="_blank"}
 
 Zie [www.instruct.nl](https://www.instruct.nl){:target="_blank"}
+
+[<img src="{{'/assets/TI-logo.png' | relative_url}}" width="400">]({{'/assets/TI-logo.png' | relative_url}}){:target="_blank"}
+
+Al meer dan 30 jaar is Texas Instruments te vinden in vele klaslokalen over de
+hele wereld. Wij maken en leveren grafische handhelds, computersoftware, apps
+en diverse apparatuur. Leraren kunnen met onze onderwijstechnologie innoveren
+in het klaslokaal. Wij bieden docenten daarbij optimale ondersteuning met T3
+Nederland – [www.t3nederland.nl](https://www.t3nederland.nl){:target="_blank"}. 
+Via onderzoekend leren kunnen leerlingen zich
+ontwikkelen in STEM (Science, Technology, Engineering & Mathematics),
+computational thinking, physical computing en Python coding in wiskunde en
+Bèta.
+
+Zie [www.education.ti.com/nl](https://www.education.ti.com/nl){:target="_blank"}
 
 [<img src="{{'/assets/2021_vo-content_logo_OFFICIAL.jpg' | relative_url}}" width="400">]({{'/assets/2021_vo-content_logo_OFFICIAL.jpg' | relative_url}}){:target="_blank"}
 
