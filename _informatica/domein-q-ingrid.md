@@ -1,8 +1,9 @@
 ---
 title: Individuele en maatschappelijke invloed van informatica
-spreker: Ingrid Breymann
 layout: informatica
 ---
+
+**Ingrid Breymann, Universiteit Twente**
 
 *Big data is watching you* en *Fit met de fitbit* zijn twee modules 
 waarmee domein Q van het examenprogramma informatica kan worden behandeld. 
