@@ -1,6 +1,6 @@
 ---
 title: Individuele en maatschappelijke invloed van informatica
-spreker: Ingrid Breymann en Gert de Geest
+spreker: Ingrid Breymann
 layout: informatica
 ---
 
@@ -24,4 +24,5 @@ In de workshop laten we het lesmateriaal zien en
 gaat u ermee aan de slag. 
 Na afloop hebt u een goed beeld hoe het materiaal ingezet kan worden.
 
-<img src="{{'/public/images/domein-q-ingrid-fig.png' | relative_url}}" width="700">
+<img src="{{'/public/images/ingrid-breymann-portret.png' | relative_url}}" width="250">
+*Ingrid Breymann*
