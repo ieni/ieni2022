@@ -7,6 +7,8 @@ title: micro:bit XXXL
 
 **Pauline Maas ([4pip](https://www.4pip.nl){:target="_blank"})**
 
+*[Presentatie (PDF)]({{'/public/pdf/microbit-xxxl.pdf' | relative_url}}){:target="_blank"}*
+
 De micro:bit is de meest populaire en betaalbare microcomputer ooit. 
 De BBC lanceerde hem in 2015 en nu in 2022  zijn er meer dan 6 miljoen micro:bits verspreid over meer dan 60 landen.
  
