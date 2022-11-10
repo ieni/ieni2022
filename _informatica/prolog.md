@@ -7,6 +7,8 @@ title: Puzzelen met Prolog
 
 **Wouter van den Brink en Adriaan Gijssen (Instruct)**
 
+*[Presentatie (PDF)]({{'/public/pdf/prolog-publiek.pdf' | relative_url}}){:target="_blank"}*
+
 In keuzethema J gaan leerlingen aan de slag met verschillende
 programmeerparadigma’s. Je denkt dan ongetwijfeld aan objectgeoriënteerd of
 misschien zelfs functioneel programmeren. Maar er zijn er nog veel meer. Eén

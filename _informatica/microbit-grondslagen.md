@@ -27,6 +27,8 @@ Daarmee kun je microbit Python programma's simuleren en downloaden naar je micro
 Een alternatief is de desktop-Python editor Mu (zonder simulator).
 Wij zorgen voor de microbits.
 
+Het materiaal is te vinden op: [microbitbook](https://eelcodijkstra.github.io/microbitbook/intro.html){:target="_blank"}
+
 *En verder...*
 
 Misschien krijg je door deze workshop nog meer ideeën om de microbit in te zetten in je onderwijs:

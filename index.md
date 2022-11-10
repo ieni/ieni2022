@@ -13,7 +13,6 @@ Na de Corona-perikelen van de vorige jaren hopen we elkaar
 in november weer in levende lijve te ontmoeten.
 Praktische gegevens:
 
-* aanmelden via: [>>aanmeldformulier<<](https://www.smink-registratie.nl/ieni/){:target="_blank"}
 * datum: 10 november 2022, 9:00 - 17:30 uur
 * lokatie:
     * [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw),
