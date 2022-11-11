@@ -5,6 +5,8 @@ title: Grondslagen met de microbit
 
 **Ronald Leijtens (docent Han Fortmann) en Eelco Dijkstra (i&i)**
 
+[Materiaal van deze sessie (Jupyter Book)](https://eelcodijkstra.github.io/microbitbook/intro.html){:target="_blank"}
+
 Je kunt de microbit gebruiken voor veel meer informatica-onderwerpen dan alleen programmeren en physical computing.
 Ronald gebruikt deze bijvoorbeeld bij het onderdeel Grondslagen, om te werken met eindige automaten en cellulaire automaten.
 Zijn leerlingen maken zo op een interactieve en ontdekkende manier kennis met informatica.
