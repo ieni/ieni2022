@@ -7,6 +7,8 @@ title: Co-Teach Informatica
 
 **Rachel Baan, Sia van Kesteren**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-co-teach-informatica.pdf' | relative_url}}){:target="_blank"}*
+
 Co-Teach Informatica is een programma waarmee VO-scholen het vak informatica kunnen 
 aanbieden door een combinatie van projectonderwijs door IT-professionals en een
 online leerlijn. Een oplossing voor scholen waar (tijdelijk) geen bevoegde informatica
