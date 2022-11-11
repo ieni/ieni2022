@@ -20,7 +20,7 @@ Universiteit Utrecht
 
 ## Programma
 
-*wijzigingen voorbehouden*
+*[Keynote: Open (Ramon Moorlag, Eelco Dijkstra)]({{'/public/pdf/20221110-keynote-open.pdf' | relative_url}}){:target="_blank"}*
 
 [<img src="{{'/assets/ieni-conferentie-2022-programma-221107.png' | relative_url}}" width="700">]({{'/assets/ieni-conferentie-2022-programma-221107.png' | relative_url}}){:target="_blank"}
 
