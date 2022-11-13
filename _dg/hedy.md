@@ -7,6 +7,8 @@ title: Hedy
 
 **Felienne Hermans**
 
+*[Presentatie (PDF)]({{'/public/pdf/hedy-strangeloop.pdf' | relative_url}}){:target="_blank"}*
+
 Steeds meer scholen willen met hun leerlingen aan het programmeren, en als
 onderdeel van Digitale Geletterdheid wordt dit waarschijnlijk zelfs verplicht.
 Maar, hoe pak je dat aan? Welke tools kan je gebruiken om leerlingen én

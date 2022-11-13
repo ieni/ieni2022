@@ -4,6 +4,8 @@ title: Aan de slag met Cognitive Computing
 ---
 
 **Michiel Smits en Jasper Dukers**
+
+*[Materiaal sessie Cognitive Computing](https://informaticabaas.nl/cc/){:target="_blank"}*
  
 Het kan een uitdaging zijn om leerlingen praktisch met cognitive computing aan
 de slag te laten gaan. Onze focus is niet op het programmeren, maar meer op de
