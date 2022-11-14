@@ -7,6 +7,9 @@ title: Leer Python met eTeacher
 
 **prof. dr. ir. Tom Schrijvers, KU Leuven**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-eteacher.pdf' | relative_url}}){:target="_blank"}*
+
+
 Beschrijving:
 Het eTeacher lessenpakket [www.eteacher.be](https://www.eteacher.be/){:target="_blank"}
 behandelt basisconcepten computationeel denken en handelen op basis van de tekstuele 

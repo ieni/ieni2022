@@ -5,6 +5,9 @@ layout: informatica
 
 **Ingrid Breymann, Universiteit Twente**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-keuzethema-domein-q.pdf' | relative_url}}){:target="_blank"}*
+
+
 *Big data is watching you* en *Fit met de fitbit* zijn twee modules 
 waarmee domein Q van het examenprogramma informatica kan worden behandeld. 
 
