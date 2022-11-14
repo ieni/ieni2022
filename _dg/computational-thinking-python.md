@@ -7,6 +7,9 @@ title: Computational Thinking & Python
 
 **Ludovic Wallaart en  Bert Wikkerink – T3 Nederland**
 
+* *[Presentatie (PDF)]({{'/public/pdf/comp-thinking-python.pdf' | relative_url}}){:target="_blank"}*
+* *[Workshop materiaal (zip-bestand)]({{'/public/pdf/comp-thinking-python-workshop.zip' | relative_url}})*
+
 Daag leerlingen uit om creatief problemen aan te pakken en een machine
 logische algoritmes te laten uitvoeren; om zo concepten te onderzoeken en te
 leren begrijpen. Meer dan ooit is het nodig dat leerlingen inzicht krijgen in
