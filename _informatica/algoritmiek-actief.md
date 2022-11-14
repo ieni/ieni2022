@@ -5,6 +5,9 @@ title: Algoritmiek door puzzelen
 
 **Paul Bergervoet en Renske Weeda (informatica-actief)**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-keuzethema-algoritmiek_v3.pdf' | relative_url}}){:target="_blank"}*
+
+
 Voor het keuzethema G, algoritmiek, berekenbaarheid en logica was er tot voor
 kort nog maar beperkt materiaal. Bij informatica-actief hebben we dit
 keuzethema nu volledig uitgewerkt. Daarbij richten we ons op het bedenken en
