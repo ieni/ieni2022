@@ -6,6 +6,8 @@ layout: informatica
 *Ik maak zelf wel uit wat ik wil leren!*
 
 **Pieter van Engelen, Q-Highschool**
+
+*[Presentatie (PDF)]({{'/public/pdf/20221110-q-highschool.pdf' | relative_url}}){:target="_blank"}*
  
 Q Highschool organiseert onderwijs op een innovatieve manier, waarbij
 leerlingen datgene leren wat voor hen relevant is. De leerlingen nemen hierbij
