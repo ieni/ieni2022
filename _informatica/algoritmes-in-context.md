@@ -5,6 +5,9 @@ title: Algoritmes in context
 
 **Jacqueline Nijenhuis-Voogt**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-jacqueline.pdf' | relative_url}}){:target="_blank"}*
+
+
 Algoritmes zijn regelmatig in het nieuws, denk aan het gebruik van algoritmes om
 te voorspellen welke belastingaangiftes mogelijk verdacht zijn. En ook onze
 leerlingen hebben er regelmatig mee te maken, bijvoorbeeld als ze
