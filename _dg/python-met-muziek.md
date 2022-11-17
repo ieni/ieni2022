@@ -5,6 +5,8 @@ title: Python leren met muziek
 
 **Krijn Hoogendorp**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-python-met-muziek.pdf' | relative_url}}){:target="_blank"}*
+
 In de workshop 'Python leren met muziek' wordt besproken hoe muziek ingezet
 kan worden in het informatica-onderwijs.  Er zijn enkele online omgevingen
 waarmee iedereen melodie en beats kan coderen. Een muziekachtergrond is

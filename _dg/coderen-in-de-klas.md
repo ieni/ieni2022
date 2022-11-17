@@ -7,6 +7,8 @@ title: Coderen in de klas
 
 **Birol Senkal & Chris van den Berg**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-chrisvandenberg.pdf' | relative_url}}){:target="_blank"}*
+
 Ben jij benieuwd hoe docenten op de middelbare school lesgeven in coderen?
 Welke methoden gebruiken zij? Welke programmeertalen zijn populair? En niet
 geheel onbelangrijk: wat vinden leerlingen ervan? Deze workshop staat in het
