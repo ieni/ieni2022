@@ -7,6 +7,9 @@ title: Informatica op het Emmauscollege
 
 **Sander van Geest en Arie Pieter Cammeraat, Emmauscollege Rotterdam**
 
+*[Presentatie (PDF)]({{'/public/pdf/20221110-emmauscollege.pdf' | relative_url}}){:target="_blank"}*
+
+
 Deze sessie gaat over drie praktische opdrachten voor de verplichte domeinen
 van het informatica programma op havo en vwo. Deze opdrachten zijn de
 afgelopen jaren ontwikkeld en ingezet op het Emmauscollege Rotterdam.
